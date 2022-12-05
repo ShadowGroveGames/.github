@@ -5,13 +5,13 @@ Shadow Grove Games is a team of enthusiastic people from germany who love turnin
  
  🇩🇪 Made in Germany
 
- 🛒 You can find our Assets on [Unity Store](https://discord.com/invite/hrTXpR3zaA)
+ 🛒 You can find our Assets on [Unity Store](https://assetstore.unity.com/publishers/77314)
 
  💬 Checkout our [Discord](https://discord.com/invite/hrTXpR3zaA)
 
  🐦 Follow us on [Twitter](https://twitter.com/shadow_grove)
 
- 🌐 We also have a [Website](https://twitter.com/shadow_grove)
+ 🌐 We also have a [Website](https://shadow-grove.org/)
 
 ­
 
