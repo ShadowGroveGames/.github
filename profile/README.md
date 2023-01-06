@@ -17,5 +17,4 @@
 
 ­
 ##  Stats
-![Luzifix stats](https://github-readme-stats.vercel.app/api?username=luzifix&show_icons=true&theme=radical)
-
+[![Luzifix's GitHub stats](https://github-readme-stats.vercel.app/api?username=luzifix&show_icons=true&theme=radical&include_all_commits=true&ring_color=EEA744&text_color=fff&icon_color=EEA744&bg_color=28001f&title_color=EEA744&border_color=EEA744)](https://github.com/anuraghazra/github-readme-stats)
