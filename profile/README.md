@@ -16,7 +16,6 @@
 ­
 
 ­
-##  Trophise
-Luzifix
+##  Stats
+![Luzifix stats](https://github-readme-stats.vercel.app/api?username=luzifix&show_icons=true&theme=radical)
 
-![](https://github-profile-trophy.vercel.app/?username=luzifix&no-frame=true&theme=dracula&column=3&margin-w=15&margin-h=15)
